@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://skyline.github.com/redd255/2023">
-    <img src="https://github.com/redd255/github-skyline" alt="3D Contribution Graph" width="600"/>
+    <img src="https://github.com/redd255/lem-in" alt="3D Contribution Graph" width="600"/>
   </a>
 </p>
 
