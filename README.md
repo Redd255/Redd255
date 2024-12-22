@@ -7,12 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="https://skyline.github.com/redd255/2023">
-    <img src="https://github.com/redd255/lem-in" alt="3D Contribution Graph" width="600"/>
-  </a>
-</p>
-
-<p align="center">
   <a href="https://roadmap.sh">
     <img src="https://roadmap.sh/card/wide/6764c22e8fe51199da49768c?variant=dark" alt="roadmap.sh" style="border-radius:10px;"/>
   </a>
@@ -50,5 +44,5 @@
 <h2 align="center">🌟 Quote of the Day</h2>
 
 <p align="center">
-  "The journey of a thousand miles begins with a single step." – Lao Tzu
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote of the Day">
 </p>
