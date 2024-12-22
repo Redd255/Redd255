@@ -7,7 +7,9 @@
 </p>
 
 <p align="center">
-  🚀 Passionate about <strong>Penetration Testing</strong> | 🌐 Exploring <strong>Web Development</strong> | 🎯 Always Learning
+  <a href="https://skyline.github.com/redd255/2023">
+    <img src="https://github.com/redd255/github-skyline" alt="3D Contribution Graph" width="600"/>
+  </a>
 </p>
 
 <p align="center">
