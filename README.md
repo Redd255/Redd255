@@ -43,6 +43,3 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote of the Day">
 </p>
-<p align="center">
-  <img src="https://github.com/redd255/redd255/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
