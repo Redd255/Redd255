@@ -1,4 +1,10 @@
-<h1 align="center">Hi there, I'm Redd! 👋</h1>
+<h1 align="center">
+  Hi there, I'm <span style="color: #00BFFF;">Redd</span>! 👋
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7F7&width=435&lines=Penetration+Tester+%7C+Web+Developer;Always+Learning+and+Building;Exploring+Tech+with+Passion" alt="Typing SVG" />
+</p>
 
 <p align="center">
   🚀 Passionate about <strong>Penetration Testing</strong> | 🌐 Exploring <strong>Web Development</strong> | 🎯 Always Learning
