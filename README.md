@@ -35,8 +35,8 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=redd255&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=redd255&theme=dark" alt="GitHub Streak">
 </p>
 
 <h2 align="center">🌟 Quote of the Day</h2>
