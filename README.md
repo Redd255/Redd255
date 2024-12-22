@@ -11,13 +11,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/redd255">
     <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Followers">
   </a>
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/youssef-hayyani-a54351275/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
