@@ -21,8 +21,6 @@
   </a>
 </p>
 
----
-
 <h2 align="center">🛠️ Skills & Tools</h2>
 
 <p align="center">
@@ -34,7 +32,7 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=redd255&show_icons=true&theme=dark" alt="GitHub Stats">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=redd255&show_icons=true&theme=dark" alt="GitHub Stats">-->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=redd255&theme=dark" alt="GitHub Streak">
 </p>
 
