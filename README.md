@@ -1,32 +1,67 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex: 1;">
-    <h2>🌟 About Me</h2>
-    <ul>
-      <li>🎓 <strong>Student at Zone 01 Oujda</strong></li>
-      <li>🛠️ <strong>Future Penetration Tester & Web Security Enthusiast</strong></li>
-      <li>💻 <strong>Learning Golang, JavaScript & Web Development</strong></li>
-      <li>🌐 <strong>Exploring Distributed Systems & DevOps</strong></li>
-      <li>🎮 <strong>Lover of Games, Code, and Anime</strong></li>
-    </ul>
+# Hi there, I'm <span style="color: #00BFFF;">Redd</span>! 👋
 
-    <h3>🍰 Interests</h3>
-    <ul>
-      <li>🖤 <strong>Muffins, Cakes, Cookies</strong></li>
-      <li>☕ <strong>A Cup of Coffee and a Good Debugging Session</strong></li>
-      <li>🎵 <strong>Listening to Lo-fi while Coding</strong></li>
-    </ul>
-  </div>
-  <div style="flex-shrink: 0;">
-    <img src="https://raw.githubusercontent.com/Redd255/Redd255/main/ast/%EA%92%B0%F0%9D%99%B0%F0%9D%9A%92%20%F0%9D%99%B0%F0%9D%9A%9B%F0%9D%9A%9D%EA%92%B1%20Wallpaper.jpeg" alt="Redd's Graphic" width="300" />
-  </div>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7F7&width=435&lines=Penetration+Tester+%7C+Web+Developer;Always+Learning+and+Building;Exploring+Tech+with+Passion" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  🚀 Passionate about tech, security, and web development. I enjoy solving complex problems, building secure applications, and continuously leveling up my skills!
+</p>
 
 ---
 
-<h2>🔗 Find Me Online</h2>
-<ul>
-  <li><a href="https://github.com/redd255">GitHub</a></li>
-  <li><a href="#">LinkedIn</a></li>
-  <li><a href="#">Mastodon</a></li>
-  <li><a href="#">Twitter</a></li>
-</ul>
+## 📍 About Me
+
+- 🌐 From **Morocco** 🇲🇦  
+- 🛠️ Currently learning **Golang** and **JavaScript**  
+- 🔐 Aspiring **Web Application Penetration Tester**  
+- 💬 Let's connect and discuss anything tech-related!  
+
+---
+
+## 🛠️ Skills & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Golang-blue?style=flat&logo=go" alt="Golang">
+  <img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=flat&logo=javascript" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Skill-Web%20Pentesting-green?style=flat&logo=webmoney" alt="Web Pentesting">
+  <img src="https://img.shields.io/badge/Tool-Burp%20Suite-orange?style=flat&logo=burp-suite" alt="Burp Suite">
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=redd255&theme=dark" alt="GitHub Streak">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redd255&layout=compact&theme=dark&langs_count=6" alt="Top Languages">
+</p>
+
+---
+
+## 🌟 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote of the Day">
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/redd255">
+    <img src="https://img.shields.io/github/followers/redd255?label=Followers&style=social" alt="GitHub Followers">
+  </a>
+  <a href="https://www.linkedin.com/in/youssef-hayyani-a54351275/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hi!-red?style=flat&logo=gmail" alt="Email">
+  </a>
+</p>
+
+<p align="center">
+  🌟 **Keep Building. Keep Exploring. Keep Growing.** 🌟
+</p>
