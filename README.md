@@ -26,8 +26,6 @@
   <img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=flat&logo=javascript" alt="JavaScript">
   <img src="https://img.shields.io/badge/Skill-Web%20Pentesting-green?style=flat&logo=webmoney" alt="Web Pentesting">
   <img src="https://img.shields.io/badge/Tool-Burp%20Suite-orange?style=flat&logo=burp-suite" alt="Burp Suite">
-  <img src="https://img.shields.io/badge/Tool-Nmap-lightgrey?style=flat&logo=nmap" alt="Nmap">
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?style=flat&logo=visual-studio-code" alt="VS Code">
 </p>
 
 ---
