@@ -11,11 +11,11 @@
     <img src="https://roadmap.sh/card/wide/6764c22e8fe51199da49768c?variant=dark" alt="roadmap.sh" style="border-radius:10px;"/>
   </a>
 </p>
-
+  ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=redd255)
 <p align="center">
-  <a href="https://github.com/redd255">
+ <!-- <a href="https://github.com/redd255">
     <img src="https://img.shields.io/github/followers/redd255?label=Followers&style=social" alt="GitHub Followers">
-  </a>
+  </a>-->
   <a href="https://www.linkedin.com/in/youssef-hayyani-a54351275/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
