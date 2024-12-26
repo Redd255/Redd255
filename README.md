@@ -13,13 +13,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=redd255&color=blue" alt="Visitor Count">
-</p>
-
-<p align="center">
   <!-- <a href="https://github.com/redd255">
     <img src="https://img.shields.io/github/followers/redd255?label=Followers&style=social" alt="GitHub Followers">
   </a> -->
+  <img src="https://komarev.com/ghpvc/?username=redd255&color=blue" alt="Visitor Count">
   <a href="https://www.linkedin.com/in/youssef-hayyani-a54351275/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
