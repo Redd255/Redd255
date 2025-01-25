@@ -9,8 +9,6 @@
     🎮 CTFs • Anime • Coding • Art
   </pre>
   <br><br>
-  <img src="https://github.com/Redd255/Redd255/blob/main/ast/wave-hi.gif" height="60" />
+  <img src="https://github.com/Redd255/Redd255/blob/main/ast/wave-hi.gif" height="70" />
   <br><br><br>
-
-  [![](https://img.shields.io/badge/LinkedIn-0A66C2)](http://linkedin.com/in/youssef-hayyani)
 </div>
